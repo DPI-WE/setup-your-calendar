@@ -1,23 +1,105 @@
-# Replace with lesson title
+# Setup Your Calendar 📅
+In this lesson, you will learn how to set up and manage your calendar, a crucial skill in any workplace. Setting up your calendar on various platforms (desktop, mobile) with notifications enabled will ensure you stay on top of important events and deadlines. Monitoring your calendar frequently is essential for effective time management and professional success.
 
-Add your content here!
+## Why Calendar Management is Important
+Calendars are essential for organizing your schedule, keeping track of meetings, deadlines, and other important events. Proper calendar management can enhance your productivity, ensure you don't miss important appointments, and help you maintain a professional image.
 
-[Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+## Steps to Set Up Your Calendar
 
-## Heading 1
+### Choose a Calendar Client
+<!-- recommend using outlook and also setup the apple calendar (or outlook) -->
+- Desktop Clients: Microsoft Outlook, Apple Calendar
+- Web Clients: Examples include Google Calendar, Outlook.com.
+- Mobile Clients: Most smartphones come with built-in calendar apps. You can also download third-party apps like Google Calendar, Outlook, or Fantastical.
 
-Use `##` second or greater level headings (HTML `<h2>` and greater).
+### Add Your Calendar Feed
 
-### Heading 1.1
+#### Canvas Calendar
+Canvas has a built-in calendar feature that aggregates events, assignments, etc., from all your courses.
+1. Navigate to the Calendar section in Canvas.
 
-Reference images from the `assets/` folder like so:
+![](assets/canvas-calendar-1.png)
 
-```
-![](assets/example-image.png)
-```
+2. Copy the calendar feed URL.
 
-You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will render in your local markdown preview; and when you connect the repository with a Learn Lesson, the assets will upload to Cloudinary and the paths will automatically be converted to a hosted URL, e.g.:
+![](assets/canvas-calendar-2.png)
 
-```
-![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
-```
+### Subscribe to the Calendar Feed
+3. Open [Outlook](mail.outlook.com) and go to the Calendar section.
+
+![](assets/outlook-calendar-1.png)
+
+4. Choose to add a new calendar by URL.
+
+5. Paste the Canvas calendar feed URL.
+
+![](assets/outlook-calendar-2.png)
+
+<!-- TODO: creating a recurring meeting -->
+
+<!-- TODO: sharing your calendar -->
+
+<!-- 
+-----------recommending outloook. maybe hook outlook into calendar client?-------------
+
+Option B: Apple Calendar
+Open Apple Calendar.
+Go to File > New Calendar Subscription.
+Paste the Canvas calendar feed URL.
+
+
+Configure Calendar Refresh:
+
+Set the calendar subscription to auto-refresh at least every 15 minutes to ensure you always have an accurate calendar. 
+-->
+
+### Enable Notifications
+
+Ensure notifications are enabled for upcoming events.
+Customize notification settings to avoid unnecessary distractions (e.g., notify 15 minutes before an event).
+
+### Monitor Your Calendar Frequently
+
+Check your calendar at the beginning and end of each day.
+Regularly update events and deadlines to keep your schedule current.
+
+## Quiz
+- Why is it important to set up a calendar client on multiple devices?
+- It makes it easier to monitor events and deadlines.
+  - Correct! Monitoring your calendar across devices ensures you don't miss important appointments.
+- It is required by most companies.
+  - Not quite. While not always required, it's a best practice for staying organized.
+- It improves the battery life of your devices.
+  - Not correct. Setting up a calendar on multiple devices does not impact battery life.
+{: .choose_best #importance title="Importance of Setting Up Calendar" points="1" answer="1"}
+
+- What should you do to ensure you have an accurate calendar?
+- Check your calendar once a week.
+  - Not correct. Checking your calendar frequently is essential for staying on top of your schedule.
+- Enable notifications for upcoming events.
+  - Correct! Notifications help you stay informed about upcoming events.
+- Set the calendar subscription to auto-refresh every hour.
+  - Close. Setting it to refresh more frequently, like every 15 minutes, is better.
+{: .choose_best #notifications title="Calendar Notifications" points="1" answer="2"}
+
+- Organizing your calendar with categories and colors can help keep your schedule more manageable.
+- True
+  - Correct! Organizing your calendar can help you stay on top of important events and deadlines.
+- False
+  - Not correct. Organization is key to effective calendar management.
+{: .choose_best #organization title="Calendar Organization" points="1" answer="1"}
+
+- Have you subscribed to the Canvas calendar feed?
+- Yes
+  - Great! Now you'll be up to date with the latest class meetings and assignment due dates.
+- No
+  - Please subscribe to the Canvas calendar feed before advancing.
+{: .choose_best #subscribed title="Subscribe to the Canvas calendar" points="1" answer="1"}
+
+## Follow Up Assignment
+<!-- 
+Create a New Recurring Meeting and add TA
+Share your calendar with a TA
+-->
+
+Schedule a meeting with a TA with the subject line: “Setup my calendar". This will confirm that you have successfully set up your calendar.
