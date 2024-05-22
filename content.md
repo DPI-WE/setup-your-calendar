@@ -7,8 +7,7 @@ Calendars are essential for organizing your schedule, keeping track of meetings,
 ## Steps to Set Up Your Calendar
 
 ### Choose a Calendar Client
-<!-- recommend using outlook and also setup the apple calendar (or outlook) -->
-- Desktop Clients: Microsoft Outlook, Apple Calendar
+- Desktop Clients: Microsoft Outlook, Apple Calendar. For DPI, **we recommend using Outlook**.
 - Web Clients: Examples include Google Calendar, Outlook.com.
 - Mobile Clients: Most smartphones come with built-in calendar apps. You can also download third-party apps like Google Calendar, Outlook, or Fantastical.
 
@@ -35,9 +34,28 @@ Canvas has a built-in calendar feature that aggregates events, assignments, etc.
 
 ![](assets/outlook-calendar-2.png)
 
-<!-- TODO: creating a recurring meeting -->
+## Share Your Calendar
+- Don’t just throw a meeting on someone’s calendar. Use shared calendars to see if someone is free or ask!
+![](assets/add-shared-calendar.png)
+![](assets/add-shared-calendar-search.png)
+- Share your calendar with your team to coordinate meetings and events.
+![](assets/sharing-calendar-menu.png)
+- Use the `+` button to look up the person you want to share your calendar with.
+![](assets/sharing-calendar-search.png)
+- Select the individual and the level of permission you want to give them, then press `Add`
+![](assets/sharing-calendar-permissions.png)
 
-<!-- TODO: sharing your calendar -->
+## Create a meeting
+1. Click on `New Event` to create a new meeting.
+![](assets/meeting-create.png)
+2. Add the meeting details, including the title, date, time, location, and attendees. You can also set up a recurring meeting if needed.
+![](assets/meeting-scheduling-assistant.png)
+3. If you want to add a virtual meeting, toggle `Teams meeting` if you are using Teams. If you want to add a Zoom meeting, you need to install the Zoom add-in, or manually add a Zoom link.
+![](assets/meeting-virtual-conference.png)
+4. Example of a meeting event. 
+![](assets/meeting-event.png)
+
+Tip: try to avoid lunch time meetings, unless of course it's a meeting over lunch.
 
 <!-- 
 -----------recommending outloook. maybe hook outlook into calendar client?-------------
