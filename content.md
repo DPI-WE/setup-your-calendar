@@ -1,4 +1,4 @@
-# Setup Your Calendar 📅
+# Set up Your Calendar 📅
 In this lesson, you will learn how to set up and manage your calendar, a crucial skill in any workplace. Setting up your calendar on various platforms (desktop, mobile) with notifications enabled will ensure you stay on top of important events and deadlines. Monitoring your calendar frequently is essential for effective time management and professional success.
 
 ## Why Calendar Management is Important
@@ -37,7 +37,9 @@ Canvas has a built-in calendar feature that aggregates events, assignments, etc.
 ## Share Your Calendar
 - Don’t just throw a meeting on someone’s calendar. Use shared calendars to see if someone is free or ask!
 ![](assets/add-shared-calendar.png)
+
 ![](assets/add-shared-calendar-search.png)
+
 - Share your calendar with your team to coordinate meetings and events.
 ![](assets/sharing-calendar-menu.png)
 - Use the `+` button to look up the person you want to share your calendar with.
@@ -120,4 +122,4 @@ Create a New Recurring Meeting and add TA
 Share your calendar with a TA
 -->
 
-Schedule a meeting with a TA with the subject line: “Setup my calendar". This will confirm that you have successfully set up your calendar.
+Schedule a meeting with a TA with the subject line: “Set up my calendar". This will confirm that you have successfully set up your calendar.
