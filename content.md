@@ -120,4 +120,4 @@ Create a New Recurring Meeting and add TA
 Share your calendar with a TA
 -->
 
-Schedule a meeting with a TA with the subject line: “Setup my calendar". This will confirm that you have successfully set up your calendar.
+Schedule a 1-on-1 meeting with a TA using their Calendly to get acquainted and confirm that you have successfully set up your calendar. Use the subject line: “Setup my calendar.”
